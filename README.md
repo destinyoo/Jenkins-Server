@@ -19,9 +19,9 @@ The Jenkins server is intended for use by developers and DevOps teams to automat
 </p>
 <h2>Resources</h2>
 <h4>If you are new to Jenkins or need help with setting up pipelines or plugins, the following resources may be helpful:</h4>
-<p>
-Jenkins documentation
-Jenkins User Handbook
-Jenkins Plugins
-Jenkins Community Forum
-</p>
+<ul>
+  <li>Jenkins documentation</li>
+  <li>Jenkins User Handbook</li>
+  <li>Jenkins Plugins</li>
+  <li>Jenkins Community Forum</li>
+</ul>
