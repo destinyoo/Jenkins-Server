@@ -1,7 +1,7 @@
 # <h1>Jenkins-Server</h1>
 <h2>Getting Started</h2>
 <p>
-To access the Jenkins server, simply visit http://your-ip:8080/ in your web browser. You will need to log in with your credentials to access the Jenkins dashboard.
+To access the Jenkins server, simply visit http://your-ip:8080/ or incase port 80 is used for something else use 8081/ in your web browser. You will need to log in with your credentials to access the Jenkins dashboard.
 </p>
 <h2>Features</h2>
 <h4>The Jenkins server includes the following features:</h4>
